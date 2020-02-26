@@ -1,0 +1,27 @@
+#box {
+    border: 10px solid slateblue;
+    margin: 50px;
+    padding: 10px;
+    width: 50%;
+}
+
+tables, th, td {
+  border: 2px solid darkblue;
+  border-collapse: collapse;
+  background-color: powderblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+img {
+  border:5px solid slateblue;
+}
+
+p {
+  color: lightblue;
+  background-color: darkblue;
+  border: 10px solid slateblue;
+  margin: 50px;
+  padding: 10px;
+  width: 50%;
+} 
